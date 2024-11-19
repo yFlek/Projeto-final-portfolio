@@ -14,7 +14,7 @@ Este é o meu projeto final do curso de programação web, desenvolvido como um 
 - **HTML5** para estruturação.
 - **CSS3** para estilização.
 - **JavaScript** para interatividade.
-- **Formspree* para envio de mensagens via formulário.
+- **Formspree** para envio de mensagens via formulário.
 
 ## Como Acessar
 
